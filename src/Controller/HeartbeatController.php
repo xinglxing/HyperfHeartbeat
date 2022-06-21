@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Hyperf\Heartbeat\Controller;
+namespace Xing\Heartbeat\Controller;
 
 use Hyperf\DbConnection\Db;
 use Hyperf\HttpServer\Annotation\Controller;
