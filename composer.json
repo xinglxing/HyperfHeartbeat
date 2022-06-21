@@ -1,5 +1,5 @@
 {
-    "name": "hyperf/heartbeat",
+    "name": "xing/hyperf-heartbeat",
     "type": "library",
     "license": "MIT",
     "keywords": [
