@@ -1,0 +1,24 @@
+{
+    "name": "hyperf/heartbeat",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "hyperf"
+    ],
+    "description": "Hyperf Package",
+    "autoload": {
+        "psr-4": {
+            "Hyperf\\Heartbeat\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.3"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "hyperf": {
+            "config": "Hyperf\\Heartbeat\\ConfigProvider"
+        }
+    }
+}
