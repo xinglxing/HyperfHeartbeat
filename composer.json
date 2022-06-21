@@ -9,7 +9,7 @@
     "description": "Hyperf Package",
     "autoload": {
         "psr-4": {
-            "Hyperf\\Heartbeat\\": "src/"
+            "Xing\\Heartbeat\\": "src/"
         }
     },
     "require": {
@@ -18,7 +18,7 @@
     "minimum-stability": "dev",
     "extra": {
         "hyperf": {
-            "config": "Hyperf\\Heartbeat\\ConfigProvider"
+            "config": "Xing\\Heartbeat\\ConfigProvider"
         }
     }
 }
