@@ -3,3 +3,7 @@
 composer.lock
 *.cache
 *.log
+.github
+.php-cs-fixer.php
+.phpstorm.meta.php
+phpunit.xml
